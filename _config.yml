@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       Plain Life of shukebeta
+email:       weizhong2004@gmail.com
+author:      shukebeta
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://shukebeta.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
